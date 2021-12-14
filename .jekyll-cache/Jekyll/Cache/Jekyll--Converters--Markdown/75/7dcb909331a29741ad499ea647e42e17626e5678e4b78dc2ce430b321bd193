@@ -1,0 +1,155 @@
+I"�<h1 id="about">About</h1>
+
+<p>Multilingual multimodal research focuses on collecting resources, developing models, and evaluating systems that need to jointly reason over multilingual text and multimodal inputs, including images, videos, texts, and knowledge bases. Multilingual multimodal NLP presents new and unique challenges. First, it is one of the areas that suffer the most from language imbalance issues. Texts in most multimodal datasets are usually only available in high-resource languages. Second, multilingual multimodal research provides opportunities to investigate culture-related phenomena. On top of the language imbalance issue in text-based corpora and models, the data of additional modalities (e.g. images or videos) are mostly collected from North American and Western European sources (and their worldviews). As a result, multimodal models do not capture our world’s multicultural diversity and do not generalise to out-of-distribution data from minority cultures. The interplay of the two issues leads to extremely poor performance of multilingual multimodal systems in real-life scenarios. This workshop encourages and promotes research efforts towards more inclusive multimodal technologies and tools to assess them. We invite papers which focus on the topics of interest include (but are not limited to):</p>
+
+<ul>
+  <li>Datasets for multilingual multimodal learning</li>
+  <li>Modeling multilingual multimodal Data</li>
+  <li>Approaches to improving the inclusion of multilingual multimodal models</li>
+  <li>Evaluation and analysis for multilingual multimodal learning</li>
+  <li>Future challenges of multilingual multimodal research</li>
+</ul>
+
+<h2 id="submission-policy">Submission Policy</h2>
+
+<p>The paper submission will be done via <a href="https://openreview.net/group?id=aclweb.org/ACL/2022/Workshop/MML">OpenReivew</a>.</p>
+
+<p>Submitted manuscripts must be 8 pages long for full papers, and 4 pages long for short papers. Both full and short papers can have unlimited pages for references and appendices.  We follow ARR submission guidelines. For more information about templates, guidelines, and instructions, see the <a href="https://aclrollingreview.org/cfp">ARR CFP guidelines</a>. We encourage authors to include a broader impact and ethical concerns statement, following <a href="https://aclrollingreview.org/cfp">ARR Ethics Policy</a> from the main conference.</p>
+
+<p>All submissions will be double-blind peer-reviewed (with author names and affiliations removed) by the program committee and judged by their relevance to the workshop themes.</p>
+
+<p>Please note that at least one of the authors of each accepted paper must register for the workshop and present the paper.</p>
+
+<h2 id="non-archival-option">Non-Archival option</h2>
+<p>ACL workshops are traditionally archival. To allow dual submission of work, we are also including a non-archival track. If accepted, these submissions will still participate and present their work in the workshop. A reference to the paper will be hosted on the workshop website (if desired), but will not be included in the official proceedings. Please submit through OpenReview but indicate that this is a cross-submission at the bottom of the submission form. You can also skip this step and inform us of your non-archival preference after the reviews.</p>
+
+<h2 id="shared-task-submission">Shared Task Submission</h2>
+
+<p>We will organize a shared task. Papers describing systems that participate in the shared task are welcome to submit to this workshop. Please see the details in a separate call later.</p>
+
+<h2 id="follow-us">Follow Us</h2>
+
+<p>TBA</p>
+
+<h1 id="invited-talks-in-alphabetical-order">Invited Talks (In alphabetical order)</h1>
+
+<style>
+img {
+  border-radius: 50%;
+}
+</style>
+
+<div class="row justify-content-center">
+  
+  <div class="col-12 col-md-3 mb-2" style="font-size:16px; text-align:center;">
+    <div class="team team-summary team-summary-large">
+      
+      <div class="team-image">
+          <img alt="Preethi Jyothi" class="img-fluid mb-2" style="height: 200px;" src="/TBA" />
+      </div>
+      
+      <div class="team-meta">
+        <h2 class="team-name" style="font-size:16px; text-align:center;"><a href="https://www.cse.iitb.ac.in/~pjyothi/">Preethi Jyothi</a><br />IIT Bombay<br /><i>TBA</i></h2>
+      </div>
+    </div>
+  </div>
+  
+  <div class="col-12 col-md-3 mb-2" style="font-size:16px; text-align:center;">
+    <div class="team team-summary team-summary-large">
+      
+      <div class="team-image">
+          <img alt="Lei Ji" class="img-fluid mb-2" style="height: 200px;" src="/TBA" />
+      </div>
+      
+      <div class="team-meta">
+        <h2 class="team-name" style="font-size:16px; text-align:center;"><a href="https://www.microsoft.com/en-us/research/people/leiji/">Lei Ji</a><br />Microsoft Research Asia<br /><i>TBA</i></h2>
+      </div>
+    </div>
+  </div>
+  
+  <div class="col-12 col-md-3 mb-2" style="font-size:16px; text-align:center;">
+    <div class="team team-summary team-summary-large">
+      
+      <div class="team-image">
+          <img alt="Lisa-Anne Hendricks" class="img-fluid mb-2" style="height: 200px;" src="/TBA" />
+      </div>
+      
+      <div class="team-meta">
+        <h2 class="team-name" style="font-size:16px; text-align:center;"><a href="TBA">Lisa-Anne Hendricks</a><br />DeepMind<br /><i>TBA</i></h2>
+      </div>
+    </div>
+  </div>
+  
+</div>
+
+<h1 id="important-dates">Important Dates</h1>
+
+<p>Important Dates:</p>
+<ul>
+  <li>February 28, 2022: Submission Date</li>
+  <li>March 26, 2022: Notification of Acceptance</li>
+  <li>April 10, 2022: Camera-ready papers due (hard deadline)</li>
+  <li>May 26-27, 2022: Workshop on Multimodal Multilingual Learning (M3L2)</li>
+</ul>
+
+<h1 id="organizers-and-contact">Organizers and Contact</h1>
+
+<p>Organizers are in the alphabetical order. For any question, please contact [email address TBA].</p>
+
+<ul>
+
+<li>
+<a href="https://e-bug.github.io">Emanuele Bugliarello (University of Copenhagen)</a>
+</li>
+
+<li>
+<a href="http://web.cs.ucla.edu/~kwchang/">Kai-Wei Chang (UCLA)</a>
+</li>
+
+<li>
+<a href="https://elliottd.github.io">Desmond Elliott (University of Copenhagen)</a>
+</li>
+
+<li>
+<a href="https://scholar.google.com/citations?user=fChTW6MAAAAJ">Spandana Gella (Amazon Alexa AI)</a>
+</li>
+
+<li>
+<a href="https://ashkamath.github.io">Aishwarya Kamath (NYU)</a>
+</li>
+
+<li>
+<a href="https://liunian-harold-li.github.io">Liunian Harold Li (UCLA)</a>
+</li>
+
+<li>
+<a href="http://fangyuliu.me/about">Fangyu Liu (Cambridge)</a>
+</li>
+
+<li>
+<a href="https://pfeiffer.ai">Jonas Pfeiffer (TU Darmstadt)</a>
+</li>
+
+<li>
+<a href="https://ducdauge.github.io">Edoardo M. Ponti (MILA Montreal)</a>
+</li>
+
+<li>
+<a href="https://krishna2.com/">Krishna Srinivasan (Google Research)</a>
+</li>
+
+<li>
+<a href="https://sites.google.com/site/ivanvulic/">Ivan Vulić (Cambridge)</a>
+</li>
+
+<li>
+<a href="https://scholar.google.com/citations?user=kvDbu90AAAAJ">Yinfei Yang (Google Research)</a>
+</li>
+
+<li>
+<a href="http://wadeyin9712.github.io">Da Yin (UCLA)</a>
+</li>
+
+</ul>
+
+:ET
