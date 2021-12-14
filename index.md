@@ -110,9 +110,6 @@ ACL workshops are traditionally archival. To allow dual submission of work, we a
 We will organize a shared task. Papers describing systems that participate in the shared task are welcome to submit to this workshop. Please see the details in a separate call later. 
 
 
-## Follow Us
-
-TBA
 
 # Invited Talks (In alphabetical order)
 
@@ -132,7 +129,6 @@ Important Dates:
 
 Organizers are in the alphabetical order. For any question, please contact [email address TBA].
 
-
 <ul>
 {% for p in page.Organizers %}
 <li>
@@ -140,5 +136,9 @@ Organizers are in the alphabetical order. For any question, please contact [emai
 </li>
 {% endfor %}
 </ul>
+
+#### Follow Us
+
+TBA
 
 
