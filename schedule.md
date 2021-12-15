@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "The 1st Multilingual Multimodal Learning Workshop"
+title: "Workshop on Multilingual Multimodal Learning"
 permalink: /schedule
 ---
 
