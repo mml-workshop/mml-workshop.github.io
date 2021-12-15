@@ -4,31 +4,30 @@ title: "Workshop on Multilingual Multimodal Learning"
 permalink: /
 
 speakers:
-  - name: Preethi Jyothi
-    url: https://www.cse.iitb.ac.in/~pjyothi/
-    topic: TBA
-    aff: IIT Bombay
-    interest: TBA
-    image: /assets/images/preethi.png
-
-  - name: Lei Ji
-    url: https://www.microsoft.com/en-us/research/people/leiji/
-    topic: TBA
-    aff: Microsoft Research Asia
-    interest: TBA
-    image: /assets/images/lei.jpg
-  - name: Lisa-Anne Hendricks
-    url: https://scholar.google.com/citations?user=pvyI8GkAAAAJ
-    topic: TBA
-    aff: DeepMind
-    interest: TBA
-    image: /assets/images/lisa.jpg
   - name: David Ifeoluwa Adelani
     url: https://dadelani.github.io/
     topic: TBA
     aff: Saarland University
     interest: TBA
     image: /assets/images/Davlan.jpeg
+  - name: Preethi Jyothi
+    url: https://www.cse.iitb.ac.in/~pjyothi/
+    topic: TBA
+    aff: IIT Bombay
+    interest: TBA
+    image: /assets/images/preethi.png
+  - name: Lisa-Anne Hendricks
+    url: https://scholar.google.com/citations?user=pvyI8GkAAAAJ
+    topic: TBA
+    aff: DeepMind
+    interest: TBA
+    image: /assets/images/lisa.jpg
+  - name: Lei Ji
+    url: https://www.microsoft.com/en-us/research/people/leiji/
+    topic: TBA
+    aff: Microsoft Research Asia
+    interest: TBA
+    image: /assets/images/lei.jpg
 
 
 Organizers:
