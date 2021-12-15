@@ -23,6 +23,12 @@ speakers:
     aff: DeepMind
     interest: TBA
     image: /assets/images/lisa.jpg
+  - name: David Ifeoluwa Adelani
+    url: https://dadelani.github.io/
+    topic: TBA
+    aff: Saarland University
+    interest: TBA
+    image: /assets/images/Davlan.jpeg
 
 
 Organizers:
