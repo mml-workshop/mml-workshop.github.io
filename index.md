@@ -108,7 +108,7 @@ Important Dates:
 - February 28, 2022: Submission Date
 - March 26, 2022: Notification of Acceptance
 - April 10, 2022: Camera-ready papers due (hard deadline)
-- May 26-27, 2022: Workshop on Multimodal Multilingual Learning
+- May 27, 2022: Workshop on Multimodal Multilingual Learning
 
 
 # Organizers and Contact
