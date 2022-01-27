@@ -10,12 +10,6 @@ speakers:
     aff: Saarland University
     interest: TBA
     image: /assets/images/Davlan.jpeg
-  - name: Preethi Jyothi
-    url: https://www.cse.iitb.ac.in/~pjyothi/
-    topic: TBA
-    aff: IIT Bombay
-    interest: TBA
-    image: /assets/images/preethi.png
   - name: Lisa-Anne Hendricks
     url: https://scholar.google.com/citations?user=pvyI8GkAAAAJ
     topic: TBA
@@ -28,6 +22,12 @@ speakers:
     aff: Microsoft Research Asia
     interest: TBA
     image: /assets/images/lei.jpg
+  - name: Preethi Jyothi
+    url: https://www.cse.iitb.ac.in/~pjyothi/
+    topic: TBA
+    aff: IIT Bombay
+    interest: TBA
+    image: /assets/images/preethi.png
 
 
 Organizers:
