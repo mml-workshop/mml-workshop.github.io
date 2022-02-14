@@ -1,46 +1,4 @@
-<!DOCTYPE html>
-<html lang="en-US">
-  <head>
-
-    <link rel="shortcut icon" href="/assets/images/logo.png">
-
-    
-    <meta charset="UTF-8">
-
-<!-- Begin Jekyll SEO tag v2.7.1 -->
-<title>Workshop on Multilingual Multimodal Learning | Co-located with ACL 2022</title>
-<meta name="generator" content="Jekyll v4.2.0" />
-<meta property="og:title" content="Workshop on Multilingual Multimodal Learning" />
-<meta property="og:locale" content="en_US" />
-<meta name="description" content="Co-located with ACL 2022" />
-<meta property="og:description" content="Co-located with ACL 2022" />
-<link rel="canonical" href="https://mml-workshop.github.io/" />
-<meta property="og:url" content="https://mml-workshop.github.io/" />
-<meta property="og:site_name" content="Workshop on Multilingual Multimodal Learning" />
-<meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="Workshop on Multilingual Multimodal Learning" />
-<script type="application/ld+json">
-{"description":"Co-located with ACL 2022","headline":"Workshop on Multilingual Multimodal Learning","@type":"WebSite","url":"https://mml-workshop.github.io/","name":"Workshop on Multilingual Multimodal Learning","@context":"https://schema.org"}</script>
-<!-- End Jekyll SEO tag -->
-
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="theme-color" content="#157878">
-    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-    <link rel="stylesheet" href="/assets/css/style.css?v=">
-  </head>
-  <body>
-    <header class="page-header" role="banner">
-      <h1 class="project-name">Workshop on Multilingual Multimodal Learning</h1>
-      <h2 class="project-tagline">Co-located with ACL 2022</h2>
-      <a href="index.html" class="btn">About</a>
-      <a href="submit.html" class="btn">Submit</a>
-      <a href="schedule.html" class="btn">Schedule</a>
-      <a href="accepted.html" class="btn">Accepted Papers</a>
-      <a href="shared_task.html" class="btn">Shared Task</a>
-    </header>
-
-    <main id="content" class="main-content" role="main">
-      <h1 id="about">About</h1>
+I"º<h1 id="about">About</h1>
 
 <p>Multilingual multimodal research focuses on collecting resources, developing models, and evaluating systems that need to jointly reason over multilingual text and multimodal inputs, including images, videos, texts, and knowledge bases. Multilingual multimodal NLP presents new and unique challenges. First, it is one of the areas that suffer the most from language imbalance issues. Texts in most multimodal datasets are usually only available in high-resource languages. Second, multilingual multimodal research provides opportunities to investigate culture-related phenomena. On top of the language imbalance issue in text-based corpora and models, the data of additional modalities (e.g. images or videos) are mostly collected from North American and Western European sources (and their worldviews). As a result, multimodal models do not capture our worldâ€™s multicultural diversity and do not generalise to out-of-distribution data from minority cultures. The interplay of the two issues leads to extremely poor performance of multilingual multimodal systems in real-life scenarios. This workshop encourages and promotes research efforts towards more inclusive multimodal technologies and tools to assess them. We invite papers which focus on the topics of interest include (but are not limited to):</p>
 
@@ -195,7 +153,4 @@ img {
 <p>We are grateful for the generous funding from our list of sponsors:</p>
 
 <p><img src="/assets/images/google.png" height="70" width="280" />  <img src="/assets/images/huggingface-logo.png" height="80" width="200" /></p>
-
-    </main>
-  </body>
-</html>
+:ET
