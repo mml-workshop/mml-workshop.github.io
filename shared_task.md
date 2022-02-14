@@ -37,7 +37,7 @@ The IGLUE repository contains sample code and pretrained models to help you get 
 ### Subtasks
 The shared task will consist of two subtasks:
 - ZS) Zero-shot transfer: Models are fine-tuned on the English NLVR2 data, and tested on MaRVL Indonesian, Mandarin, Swahili, Tamil, Turkish
-- MS) Most-shot transfer: Models are further fine-tuned on a few data points in the target language. This subtask corresponds to the most-shot setup of Bugliarello et al. (2022). In particular, performance is only reported in three languages: Indonesian, Mandarin and Turkish.
+- FS) few-shot transfer: Models are further fine-tuned on a few data points in the target language. This subtask corresponds to the most-shot setup of [Bugliarello et al. (2022)](https://iglue-benchmark.github.io/). In particular, performance is only reported in three languages: Indonesian, Mandarin and Turkish.
 
 NB: we will *only* consider submissions that use pre-existing pre-trained models that are publicly available or new models that have been (pre)trained on publicly available data.
 
@@ -50,7 +50,7 @@ Submissions need to follow the jsonlines format, where languages are in ISO 639-
 ```
 {"concept": "39-Panci", "language": "id", "chapter": "Basic actions and technology", "id": "id-0", "prediction": true}
 ```
-Files should be named as `{team-name}_{zs/ms}_{xl/tt}_{lang}.jsonl` to indicate the subtask (zero-shot or most-shot), whether it’s cross-lingual or translate-test transfer, and the target language.
+Files should be named as `{team-name}_{zs/ms}_{xl/tt}_{lang}.jsonl` to indicate the subtask (zero-shot or few-shot), whether it’s cross-lingual or translate-test transfer, and the target language.
 
 ### Description Papers
 Papers describing shared task submissions should consist of 4 to 8 pages of content plus additional pages of references, formatted according to the ARR format guidelines for ACL 2022. For shared task paper submission, it is not necessary to blind the team name and authors. Accepted papers will be published online in the ACL 2022 proceedings and will be presented at the MML workshop at ACL 2022. Writeups should be submitted through [OpenReview](https://openreview.net/group/edit?id=aclweb.org/ACL/2022/Workshop/MML), and are due by 30 April 2022 11:59pm [UTC-12h].
