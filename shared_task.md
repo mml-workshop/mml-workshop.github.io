@@ -19,7 +19,7 @@ Participants will be invited to describe their system in a paper for the MML wor
 Here are the links to quickly download the data for the shared task:
 * NLVR2: [text](https://github.com/e-bug/iglue/tree/main/datasets/nlvr2/annotations) / [images](https://github.com/lil-lab/nlvr/tree/master/nlvr2#direct-image-download) / [features](https://sid.erda.dk/sharelink/FjJUsFbRWO)
 * MaRVL zero-shot: [text](https://github.com/e-bug/iglue/tree/main/datasets/marvl/zero_shot) / [images](https://dataverse.scholarsportal.info/dataset.xhtml?persistentId=doi:10.5683/SP3/42VZ4P) / [features](https://sid.erda.dk/sharelink/fMNmRmJgQA)
-* MaRVL most-shot: [text](https://github.com/e-bug/iglue/tree/main/datasets/marvl/few_shot/annotations) / [images](https://dataverse.scholarsportal.info/dataset.xhtml?persistentId=doi:10.5683/SP3/42VZ4P) / [features](https://sid.erda.dk/sharelink/fMNmRmJgQA)
+* MaRVL few-shot: [text](https://github.com/e-bug/iglue/tree/main/datasets/marvl/few_shot/annotations) / [images](https://dataverse.scholarsportal.info/dataset.xhtml?persistentId=doi:10.5683/SP3/42VZ4P) / [features](https://sid.erda.dk/sharelink/fMNmRmJgQA)
 * [IGLUE repository](https://github.com/e-bug/iglue)
 
 Preprocessed image features are available for two visual encoders:
@@ -55,6 +55,9 @@ Files should be named as `{team-name}_{zs/ms}_{xl/tt}_{lang}.jsonl` to indicate 
 ### Description Papers
 Papers describing shared task submissions should consist of 4 to 8 pages of content plus additional pages of references, formatted according to the ARR format guidelines for ACL 2022. For shared task paper submission, it is not necessary to blind the team name and authors. Accepted papers will be published online in the ACL 2022 proceedings and will be presented at the MML workshop at ACL 2022. Writeups should be submitted through [OpenReview](https://openreview.net/group/edit?id=aclweb.org/ACL/2022/Workshop/MML), and are due by 30 April 2022 11:59pm [UTC-12h].
 
+
+### Contact
+Please contact [mml DOT wksp AT gmail DOT com](mailto:mml.wksp@gmail.com) if you have any questions.
 
 
 
