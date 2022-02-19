@@ -45,10 +45,13 @@ NB: we will *only* consider submissions that use pre-existing pre-trained models
 
 #### The MaRVL Benchmark
 
+We list existing baseline results for the subtasks below. The numbers are copied from the IGLUE benchmark [(Bugliarello et al., 2022)](https://iglue-benchmark.github.io) and is average of the five languages.
+
+
 ##### **_ZS results:_**
 
 | Rank | Model   | Accuracy (%) |
-|------|---------|:------------:|
+|:------:|---------|:------------:|
 |   1  | UC2 [(Zhou et al., 2021)](https://arxiv.org/abs/2104.00332)     |     57.28    |
 |   2  | M3P [(Ni et al., 2021)](https://arxiv.org/pdf/2006.02635.pdf)    |     56.00    |
 |   3  | xUNITER [(Liu & Bugliarello et al., 2021)](https://aclanthology.org/2021.emnlp-main.818.pdf) |     54.59    |
@@ -57,14 +60,13 @@ NB: we will *only* consider submissions that use pre-existing pre-trained models
 ##### **_FS results:_**
 
 | Rank | Model   | Accuracy (%) |
-|------|---------|--------------|
-|   1  | UC2 [(Zhou et al., 2021)](https://arxiv.org/abs/2104.00332)     |     58.32    |
-|   2  | xUNITER [(Liu & Bugliarello et al., 2021)](https://aclanthology.org/2021.emnlp-main.818.pdf) |     57.46    |
-|   3  | mUNITER [(Liu & Bugliarello et al., 2021)](https://aclanthology.org/2021.emnlp-main.818.pdf) |     53.41    |
-|   4  | M3P [(Ni et al., 2021)](https://arxiv.org/pdf/2006.02635.pdf)     |     49.79    |
+|:------:|---------|:--------------:|
+|   1  | UC2 [(Zhou et al., 2021)](https://arxiv.org/abs/2104.00332)     |      58.32    |
+|   2  | xUNITER [(Liu & Bugliarello et al., 2021)](https://aclanthology.org/2021.emnlp-main.818.pdf) |      57.46    |
+|   3  | mUNITER [(Liu & Bugliarello et al., 2021)](https://aclanthology.org/2021.emnlp-main.818.pdf) |      53.41    |
+|   4  | M3P [(Ni et al., 2021)](https://arxiv.org/pdf/2006.02635.pdf)     |      49.79    |
 
 <br>
-The above numbers are copied from the IGLUE benchmark [(Bugliarello et al., 2022)](https://iglue-benchmark.github.io) and is average of the five languages.
 
 ### Submission
 Submissions should be emailed to the organisers by the end of April 30, anywhere on Earth.
