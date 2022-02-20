@@ -45,7 +45,7 @@ NB: we will *only* consider submissions that use pre-existing pre-trained models
 
 #### The MaRVL Benchmark
 
-We list existing baseline results for the subtasks below. The numbers are copied from the IGLUE benchmark [(Bugliarello et al., 2022)](https://iglue-benchmark.github.io) and is average of the five languages. A leaderboard is availible at [paperswithcode.com](~/Desktop/mml-workshop.github.io).
+We list existing baseline results for the subtasks below. The numbers are copied from the IGLUE benchmark [(Bugliarello et al., 2022)](https://iglue-benchmark.github.io) and is average of the five languages. A leaderboard is availible at [paperswithcode.com](https://paperswithcode.com/dataset/marvl).
 
 
 ##### **_ZS results:_**
@@ -74,7 +74,7 @@ Submissions need to follow the jsonlines format, where languages are in ISO 639-
 ```
 {"concept": "39-Panci", "language": "id", "chapter": "Basic actions and technology", "id": "id-0", "prediction": true}
 ```
-Files should be named as `{team-name}_{zs/ms}_{xl/tt}_{lang}.jsonl` to indicate the subtask (zero-shot or few-shot), whether it’s cross-lingual or translate-test transfer, and the target language.
+Files should be named as `{team-name}_{zs/fs}_{xl/tt}_{lang}.jsonl` to indicate the subtask (zero-shot or few-shot), whether it’s cross-lingual or translate-test transfer, and the target language.
 
 ### Description Papers
 Papers describing shared task submissions should consist of 4 to 8 pages of content plus additional pages of references, formatted according to the ARR format guidelines for ACL 2022. For shared task paper submission, it is not necessary to blind the team name and authors. Accepted papers will be published online in the ACL 2022 proceedings and will be presented at the MML workshop at ACL 2022. Writeups should be submitted through [OpenReview](https://openreview.net/group/edit?id=aclweb.org/ACL/2022/Workshop/MML), and are due by 30 April 2022 11:59pm [UTC-12h].
