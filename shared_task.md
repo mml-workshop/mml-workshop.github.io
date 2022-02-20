@@ -45,7 +45,7 @@ NB: we will *only* consider submissions that use pre-existing pre-trained models
 
 #### The MaRVL Benchmark
 
-We list existing baseline results for the subtasks below. The numbers are copied from the IGLUE benchmark [(Bugliarello et al., 2022)](https://iglue-benchmark.github.io) and is average of the five languages.
+We list existing baseline results for the subtasks below. The numbers are copied from the IGLUE benchmark [(Bugliarello et al., 2022)](https://iglue-benchmark.github.io) and is average of the five languages. A leaderboard is availible at [paperswithcode.com](~/Desktop/mml-workshop.github.io).
 
 
 ##### **_ZS results:_**
