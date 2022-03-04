@@ -113,7 +113,7 @@ Important Dates:
 
 # Organizers and Contact
 
-Organizers are in the alphabetical order. For any question, please contact [email address TBA].
+Organizers are in the alphabetical order. For any question, please contact [mml DOT wksp AT gmail DOT com](mailto:mml.wksp@gmail.com).
 
 <ul>
 {% for p in page.Organizers %}
@@ -125,8 +125,7 @@ Organizers are in the alphabetical order. For any question, please contact [emai
 
 #### Follow Us
 
-TBA
-
+Twitter: [@MML_WKSP](https://twitter.com/MML_WKSP)
 
 # Sponsors
 
