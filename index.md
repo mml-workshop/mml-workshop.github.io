@@ -6,27 +6,29 @@ permalink: /
 speakers:
   - name: David Ifeoluwa Adelani
     url: https://dadelani.github.io/
-    topic: TBA
     aff: Saarland University
-    interest: TBA
+    topic: "Multilingual Language Model Adaptive Fine-Tuning: A Study on African Languages
+    aff: Saarland University"
+    interest: "Multilingual Language Model Adaptive Fine-Tuning: A Study on African Languages
+    aff: Saarland University"
     image: /assets/images/Davlan.jpeg
   - name: Lisa-Anne Hendricks
     url: https://scholar.google.com/citations?user=pvyI8GkAAAAJ
-    topic: TBA
+    topic: "Digging Deeper into Multimodal Transformers"
     aff: DeepMind
-    interest: TBA
+    interest: "Digging Deeper into Multimodal Transformers"
     image: /assets/images/lisa.jpg
   - name: Lei Ji
     url: https://www.microsoft.com/en-us/research/people/leiji/
-    topic: TBA
+    topic: "Multimodal Video Understanding with Language Guidance"
     aff: Microsoft Research Asia
-    interest: TBA
+    interest: "Multimodal Video Understanding with Language Guidance"
     image: /assets/images/lei.jpg
   - name: Preethi Jyothi
     url: https://www.cse.iitb.ac.in/~pjyothi/
-    topic: TBA
+    topic: "New Challenges in Learning with Multilingual and Multimodal Data"
     aff: IIT Bombay
-    interest: TBA
+    interest: "New Challenges in Learning with Multilingual and Multimodal Data"
     image: /assets/images/preethi.png
 
 
