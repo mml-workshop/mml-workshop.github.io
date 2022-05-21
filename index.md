@@ -131,4 +131,4 @@ Twitter: [@MML_WKSP](https://twitter.com/MML_WKSP)
 
 We are grateful for the generous funding from our list of sponsors:
 
-<img src="/assets/images/google.png" height="70" width="280">  <img src="/assets/images/huggingface-logo.png" height="80" width="200">  
+ <img src="/assets/images/640px-Apple-logo.png" height="50" width="50"> <img src="/assets/images/google.png" height="55" width="128"> 
